@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\shelvesTag.exe.config
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\shelvesTag.exe
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\shelvesTag.pdb
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.Properties.Resources.resources
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.exe
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.pdb
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.Form1.resources
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.Up2Date
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\zxing.presentation.dll
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\shelvesTag\shelvesTag\bin\Debug\zxing.presentation.xml
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\shelvesTag.exe.config
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\shelvesTag.exe
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\shelvesTag.pdb
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\System.Drawing.Common.dll
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\zxing.dll
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\zxing.presentation.dll
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\System.Drawing.Common.pdb
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\System.Drawing.Common.xml
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\zxing.xml
+C:\Program Files\RCS\shelvesTag\shelvesTag\bin\Debug\zxing.presentation.xml
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.AssemblyReference.cache
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.Form1.resources
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.Properties.Resources.resources
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.GenerateResource.cache
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.CoreCompileInputs.cache
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.csproj.Up2Date
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.exe
+C:\Program Files\RCS\shelvesTag\shelvesTag\obj\Debug\shelvesTag.pdb

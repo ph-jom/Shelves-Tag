@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template name="shelftag">
+	<fonts>
+		<font id="2" name="Akrobat Bold" size="15" bold="no" italic="no" underline="no"/>
+		<font id="6" name="Akrobat ExtraBold" size="25" bold="no" italic="no" underline="no"/>
+		<font id="7" name="Akrobat ExtraBold" size="45" bold="no" italic="no" underline="no"/>
+		<font id="8" name="Akrobat ExtraBold" size="30"  bold="no" italic="no" underline="no"/>
+		<font id="9" name="Calibri" size="15" bold="yes" italic="no" underline="no"/>
+		<font id="10" name="Calibri" size="20" bold="yes" italic="no" underline="no"/>
+		<font id="11" name="Akrobat ExtraBold" size="10" bold="no"/>
+	</fonts>
+	<layout>
+		<graphic id="1" name="logo" format="png">rcs-logo</graphic>
+		<graphic id="2" name="currency" format="png">₱</graphic>
+		<text field="branch code" font_id="7" x="50" y="560" width="540" height="60" color="0x000000">RCS004</text>
+		<text field="description" font_id="8" x="50" y="560" width="540" height="60" color="0x000000">DOUBLEMINT GUM 87.6G</text>
+		<text field="price" font_id="8" x="50" y="560" width="540" height="60" color="0x000000">45.</text>
+		<text field="price decimal" font_id="8" x="50" y="560" width="540" height="60" color="0x000000">70</text>
+		<text field="uom" font_id="8" x="50" y="560" width="540" height="60" color="0x000000">PCS</text>
+		<text field="date" font_id="8" x="50" y="560" width="540" height="60" color="0x000000">2024/08/27 10:00AM</text>
+		<barcode field="item code" x="30" y="830" width="150" height="150" rotation="0" color="0x00000" code="EAN_13" multiplier="8">022000101754</barcode>
+	</layout>
+</template>
